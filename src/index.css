@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* index.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Other CSS styles */
+h2{
+    fontFamily:Poppins;
+}
